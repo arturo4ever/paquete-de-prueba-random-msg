@@ -1,0 +1,25 @@
+{
+  "name": "paquete-de-prueba-random-msg",
+  "version": "1.0.0",
+  "description": "Random message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-arturo4ever:arturo4ever/paquete-de-prueba-random-msg.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "nodejs",
+    "npm"
+  ],
+  "author": "arturo4ever <darturosanchezg@gmail.com>",
+  "license": "MIT",
+  "bin" :{
+    "paquete-de-prueba-random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true 
+}
